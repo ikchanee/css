@@ -18,7 +18,7 @@ header .row>div:nth-child(1)>a {
 	width: 35px;
 	height: 42px;
 	margin-top: 25px;
-	background: url('../images/apple_logo.svg') no-repeat;
+	background: url('https://ikchanee.github.io/css/images/logo.png') no-repeat;
 }
 body,html {
 	height: auto!important;
@@ -330,7 +330,7 @@ header #header-bar #header-menu-right {
 	padding-left: 22px;
 	margin-left:-13px;
 	margin-top:5px;
-	background:url('../images/logo.png');
+	background:url('https://ikchanee.github.io/css/images/logow.png');
 	background-repeat:no-repeat;
 }
 
