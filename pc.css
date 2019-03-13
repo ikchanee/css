@@ -325,8 +325,8 @@ header #header-bar #header-menu-right {
 	position:fixed;
 	top:0;
 	left:50%;
-	height: 50px;
-	width: 139px;
+	height: 32px;
+	width: 22px;
 	padding-left: 22px;
 	margin-left:-13px;
 	margin-top:5px;
