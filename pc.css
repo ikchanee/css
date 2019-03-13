@@ -161,7 +161,7 @@ header #header-bar #header-menu-right {
 #board-info h1>a::before {
 	content: '';
 	position: absolute;
-	background: url(../images/mojave_512.png) no-repeat;
+	background: url(https://ikchanee.github.io/css/images/ikch.png) no-repeat;
 	background-size: 75px;
 	width: 75px;
 	height: 75px;
